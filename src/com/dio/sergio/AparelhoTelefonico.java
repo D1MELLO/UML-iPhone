@@ -1,0 +1,7 @@
+package com.dio.sergio;
+
+public interface AparelhoTelefonico {
+    void ligar(String numero);
+    void atender();
+    void iniciarCorreioVoz();
+}
