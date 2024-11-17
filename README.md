@@ -1,7 +1,5 @@
 # Diagrama UML do iPhone
 
-Aqui está o diagrama UML do iPhone com suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
-
 ```mermaid
 classDiagram
     class iPhone {
